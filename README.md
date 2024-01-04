@@ -6,7 +6,7 @@ Is the world becoming a happier place?
 
 ## Team Members
 
-Aaron Lin, Siddharth Manu, Stephanie Andrews @jellomoat
+Aaron Lin, Siddharth Manu, Stephanie Andrews 
 
 
 ## Primary Dataset
