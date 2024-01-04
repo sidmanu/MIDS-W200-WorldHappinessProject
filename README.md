@@ -9,11 +9,6 @@ Is the world becoming a happier place?
 Aaron Lin, Siddharth Manu, Stephanie Andrews
 
 
-## Repo
-
-[https://github.com/UC-Berkeley-I-School/Project2_Andrews_Lin_Manu](https://github.com/UC-Berkeley-I-School/Project2_Andrews_Lin_Manu) 
-
-
 ## Primary Dataset
 
 [World Happiness Report Data](https://worldhappiness.report/data/)
