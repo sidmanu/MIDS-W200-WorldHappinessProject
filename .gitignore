@@ -1,0 +1,27 @@
+# Taken from https://github.com/equinor/data-science-template/blob/master/.gitignore 
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+#Mac DS store files
+**/.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Data
+data/raw/wid_all_data/
+

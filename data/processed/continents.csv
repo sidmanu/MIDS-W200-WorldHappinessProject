@@ -1,0 +1,390 @@
+,country,continent,region,country_lower
+0,Andorra,Europe,Western Europe,andorra
+1,United Arab Emirates,Asia,West Asia,united arab emirates
+2,Afghanistan,Asia,South Asia,afghanistan
+3,Antigua and Barbuda,Americas,Caribbean,antigua and barbuda
+4,Anguilla,Americas,Caribbean,anguilla
+5,,,,
+6,Albania,Europe,Eastern Europe,albania
+7,Armenia,Asia,West Asia,armenia
+8,Netherlands Antilles,Americas,Caribbean,netherlands antilles
+9,Angola,Africa,Middle Africa,angola
+10,Argentina,Americas,South America,argentina
+11,American Samoa,Oceania,Oceania (excl. Australia and New Zealand),american samoa
+12,Austria,Europe,Western Europe,austria
+13,Australia,Oceania,Australia and New Zealand,australia
+14,Aruba,Americas,Caribbean,aruba
+15,Azerbaijan,Asia,West Asia,azerbaijan
+16,Bosnia and Herzegovina,Europe,Eastern Europe,bosnia and herzegovina
+17,Barbados,Americas,Caribbean,barbados
+18,Bangladesh,Asia,South Asia,bangladesh
+19,Belgium,Europe,Western Europe,belgium
+20,Burkina Faso,Africa,West Africa,burkina faso
+21,Bulgaria,Europe,Eastern Europe,bulgaria
+22,Bahrain,Asia,West Asia,bahrain
+23,Burundi,Africa,East Africa,burundi
+24,Benin,Africa,West Africa,benin
+25,Saint Barthelemy,Americas,Caribbean,saint barthelemy
+26,Bermuda,Americas,North America,bermuda
+27,Brunei Darussalam,Asia,South-East Asia,brunei darussalam
+28,Bolivia,Americas,South America,bolivia
+29,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,"bonaire, sint eustatius and saba"
+30,Brazil,Americas,South America,brazil
+31,Bahamas,Americas,Caribbean,bahamas
+32,Bhutan,Asia,South Asia,bhutan
+33,Botswana,Africa,South Africa,botswana
+34,Belarus,Asia,West Asia,belarus
+35,Belize,Americas,Central America,belize
+36,Canada,Americas,North America,canada
+37,DR Congo,Africa,Middle Africa,dr congo
+38,Central African Republic,Africa,Middle Africa,central african republic
+39,Congo,Africa,Middle Africa,congo
+40,Switzerland,Europe,Western Europe,switzerland
+41,Cote d'Ivoire,Africa,West Africa,cote d'ivoire
+42,Cook Islands,Oceania,Oceania (excl. Australia and New Zealand),cook islands
+43,Chile,Americas,South America,chile
+44,Cameroon,Africa,Middle Africa,cameroon
+45,China,Asia,East Asia,china
+46,Rural China,,,rural china
+47,Urban China,,,urban china
+48,Colombia,Americas,South America,colombia
+49,Costa Rica,Americas,Central America,costa rica
+50,Czechoslovakia,Europe,Eastern Europe,czechoslovakia
+51,Cuba,Americas,Caribbean,cuba
+52,Cabo Verde,Africa,West Africa,cabo verde
+53,Curacao,Americas,Caribbean,curacao
+54,Cyprus,Europe,Eastern Europe,cyprus
+55,Czech Republic,Europe,Eastern Europe,czech republic
+56,German Democratic Republic,Europe,Western Europe,german democratic republic
+57,Germany,Europe,Western Europe,germany
+58,Baden,,,baden
+59,Bavaria,,,bavaria
+60,Bremen,,,bremen
+61,Hesse,,,hesse
+62,Hamburg,,,hamburg
+63,Prussia,,,prussia
+64,Saxony,,,saxony
+65,Wurttemberg,,,wurttemberg
+66,Djibouti,Africa,East Africa,djibouti
+67,Denmark,Europe,Western Europe,denmark
+68,Dominica,Americas,Caribbean,dominica
+69,Dominican Republic,Americas,Caribbean,dominican republic
+70,Algeria,Africa,North Africa,algeria
+71,Ecuador,Americas,South America,ecuador
+72,Estonia,Europe,Eastern Europe,estonia
+73,Egypt,Africa,North Africa,egypt
+74,Western Sahara,Africa,North Africa,western sahara
+75,Eritrea,Africa,East Africa,eritrea
+76,Spain,Europe,Western Europe,spain
+77,Ethiopia,Africa,East Africa,ethiopia
+78,Finland,Europe,Western Europe,finland
+79,Fiji,Oceania,Oceania (excl. Australia and New Zealand),fiji
+80,Falkland Islands,Americas,South America,falkland islands
+81,Micronesia,Oceania,Oceania (excl. Australia and New Zealand),micronesia
+82,Faroe Islands,Europe,Western Europe,faroe islands
+83,France,Europe,Western Europe,france
+84,Gabon,Africa,Middle Africa,gabon
+85,United Kingdom,Europe,Western Europe,united kingdom
+86,Grenada,Americas,Caribbean,grenada
+87,Georgia,Asia,West Asia,georgia
+88,Guernsey,Europe,Western Europe,guernsey
+89,Ghana,Africa,West Africa,ghana
+90,Gibraltar,Europe,Western Europe,gibraltar
+91,Greenland,Americas,North America,greenland
+92,Gambia,Africa,West Africa,gambia
+93,Guinea,Africa,West Africa,guinea
+94,Equatorial Guinea,Africa,Middle Africa,equatorial guinea
+95,Greece,Europe,Western Europe,greece
+96,Guatemala,Americas,Central America,guatemala
+97,Guam,Oceania,Oceania (excl. Australia and New Zealand),guam
+98,Guinea-Bissau,Africa,West Africa,guinea-bissau
+99,Guyana,Americas,South America,guyana
+100,Hong Kong,Asia,East Asia,hong kong
+101,Honduras,Americas,Central America,honduras
+102,Croatia,Europe,Eastern Europe,croatia
+103,Haiti,Americas,Caribbean,haiti
+104,Hungary,Europe,Eastern Europe,hungary
+105,Indonesia,Asia,South-East Asia,indonesia
+106,Ireland,Europe,Western Europe,ireland
+107,Israel,Asia,West Asia,israel
+108,Isle of Man,Europe,Western Europe,isle of man
+109,India,Asia,South Asia,india
+110,Iraq,Asia,West Asia,iraq
+111,Iran,Asia,South Asia,iran
+112,Iceland,Europe,Western Europe,iceland
+113,Italy,Europe,Western Europe,italy
+114,Jersey,Europe,Western Europe,jersey
+115,Jamaica,Americas,Caribbean,jamaica
+116,Jordan,Asia,West Asia,jordan
+117,Japan,Asia,East Asia,japan
+118,Kenya,Africa,East Africa,kenya
+119,Kyrgyzstan,Asia,Central Asia,kyrgyzstan
+120,Cambodia,Asia,South-East Asia,cambodia
+121,Kiribati,Oceania,Oceania (excl. Australia and New Zealand),kiribati
+122,Comoros,Africa,East Africa,comoros
+123,Saint Kitts and Nevis,Americas,Caribbean,saint kitts and nevis
+124,North Korea,Asia,East Asia,north korea
+125,Korea,Asia,East Asia,korea
+126,Kosovo,Europe,Eastern Europe,kosovo
+127,Kuwait,Asia,West Asia,kuwait
+128,Cayman Islands,Americas,Caribbean,cayman islands
+129,Kazakhstan,Asia,Central Asia,kazakhstan
+130,Lao PDR,Asia,South-East Asia,lao pdr
+131,Lebanon,Asia,West Asia,lebanon
+132,Saint Lucia,Americas,Caribbean,saint lucia
+133,Liechtenstein,Europe,Western Europe,liechtenstein
+134,Sri Lanka,Asia,South Asia,sri lanka
+135,Liberia,Africa,West Africa,liberia
+136,Lesotho,Africa,South Africa,lesotho
+137,Lithuania,Europe,Eastern Europe,lithuania
+138,Luxembourg,Europe,Western Europe,luxembourg
+139,Latvia,Europe,Eastern Europe,latvia
+140,Libya,Africa,North Africa,libya
+141,Morocco,Africa,North Africa,morocco
+142,Monaco,Europe,Western Europe,monaco
+143,Moldova,Europe,Eastern Europe,moldova
+144,Montenegro,Europe,Eastern Europe,montenegro
+145,Saint Martin (French part),Americas,Caribbean,saint martin (french part)
+146,Madagascar,Africa,East Africa,madagascar
+147,Marshall Islands,Oceania,Oceania (excl. Australia and New Zealand),marshall islands
+148,North Macedonia,Europe,Eastern Europe,north macedonia
+149,Mali,Africa,West Africa,mali
+150,Myanmar,Asia,South-East Asia,myanmar
+151,Mongolia,Asia,East Asia,mongolia
+152,Macao,Asia,East Asia,macao
+153,Northern Mariana Islands,Oceania,Oceania (excl. Australia and New Zealand),northern mariana islands
+154,Mauritania,Africa,West Africa,mauritania
+155,Montserrat,Americas,Caribbean,montserrat
+156,Malta,Europe,Western Europe,malta
+157,Mauritius,Africa,East Africa,mauritius
+158,Maldives,Asia,South Asia,maldives
+159,Malawi,Africa,East Africa,malawi
+160,Mexico,Americas,Central America,mexico
+161,Malaysia,Asia,South-East Asia,malaysia
+162,Mozambique,Africa,East Africa,mozambique
+163,Namibia,Africa,South Africa,namibia
+164,New Caledonia,Oceania,Oceania (excl. Australia and New Zealand),new caledonia
+165,Niger,Africa,West Africa,niger
+166,Nigeria,Africa,West Africa,nigeria
+167,Nicaragua,Americas,Central America,nicaragua
+168,Netherlands,Europe,Western Europe,netherlands
+169,Norway,Europe,Western Europe,norway
+170,Nepal,Asia,South Asia,nepal
+171,Nauru,Oceania,Oceania (excl. Australia and New Zealand),nauru
+172,Niue,Oceania,Oceania (excl. Australia and New Zealand),niue
+173,New Zealand,Oceania,Australia and New Zealand,new zealand
+174,Other Russia & Central Asia,,,other russia & central asia
+175,Other Russia & Central Asia (at market exchange rate),,,other russia & central asia (at market exchange rate)
+176,Other East Asia,,,other east asia
+177,Other East Asia (at market exchange rate),,,other east asia (at market exchange rate)
+178,Other Western Europe,,,other western europe
+179,Other Western Europe (at market exchange rate),,,other western europe (at market exchange rate)
+180,Other Latin America,,,other latin america
+181,Other Latin America (at market exchange rate),,,other latin america (at market exchange rate)
+182,Other MENA,,,other mena
+183,Other MENA (at market exchange rate),,,other mena (at market exchange rate)
+184,Other North America & Oceania,,,other north america & oceania
+185,Other North America & Oceania (at market exchange rate),,,other north america & oceania (at market exchange rate)
+186,Other South & South-East Asia,,,other south & south-east asia
+187,Other South & South-East Asia (at market exchange rate),,,other south & south-east asia (at market exchange rate)
+188,Other Sub-Saharan Africa,,,other sub-saharan africa
+189,Other Sub-Saharan Africa (at market exchange rate),,,other sub-saharan africa (at market exchange rate)
+190,Oman,Asia,West Asia,oman
+191,Panama,Americas,Central America,panama
+192,Peru,Americas,South America,peru
+193,French Polynesia,Oceania,Oceania (excl. Australia and New Zealand),french polynesia
+194,Papua New Guinea,Oceania,Oceania (excl. Australia and New Zealand),papua new guinea
+195,Philippines,Asia,South-East Asia,philippines
+196,Pakistan,Asia,South Asia,pakistan
+197,Poland,Europe,Eastern Europe,poland
+198,Saint Pierre and Miquelon,Americas,North America,saint pierre and miquelon
+199,Puerto Rico,Americas,Caribbean,puerto rico
+200,Palestine,Asia,West Asia,palestine
+201,Portugal,Europe,Western Europe,portugal
+202,Palau,Oceania,Oceania (excl. Australia and New Zealand),palau
+203,Paraguay,Americas,South America,paraguay
+204,Qatar,Asia,West Asia,qatar
+205,Africa,,,africa
+206,Africa (at market exchange rate),,,africa (at market exchange rate)
+207,Americas,,,americas
+208,Americas (at market exchange rate),,,americas (at market exchange rate)
+209,Asia,,,asia
+210,Asia (at market exchange rate),,,asia (at market exchange rate)
+211,Europe,,,europe
+212,Europe (at market exchange rate),,,europe (at market exchange rate)
+213,Oceania,,,oceania
+214,Oceania (at market exchange rate),,,oceania (at market exchange rate)
+215,Australia and New Zealand,,,australia and new zealand
+216,Australia and New Zealand (at market exchange rate),,,australia and new zealand (at market exchange rate)
+217,Caribbean,,,caribbean
+218,Caribbean (at market exchange rate),,,caribbean (at market exchange rate)
+219,Central America,,,central america
+220,Central America (at market exchange rate),,,central america (at market exchange rate)
+221,Central Asia,,,central asia
+222,Central Asia (at market exchange rate),,,central asia (at market exchange rate)
+223,East Africa,,,east africa
+224,East Africa (at market exchange rate),,,east africa (at market exchange rate)
+225,East Asia,,,east asia
+226,East Asia (at market exchange rate),,,east asia (at market exchange rate)
+227,Eastern Europe,,,eastern europe
+228,Eastern Europe (at market exchange rate),,,eastern europe (at market exchange rate)
+229,Middle Africa,,,middle africa
+230,Middle Africa (at market exchange rate),,,middle africa (at market exchange rate)
+231,North Africa,,,north africa
+232,North Africa (at market exchange rate),,,north africa (at market exchange rate)
+233,North America,,,north america
+234,North America (at market exchange rate),,,north america (at market exchange rate)
+235,Oceania (excl. Australia and New Zealand),,,oceania (excl. australia and new zealand)
+236,Oceania (excl. Australia and New Zealand) (at market exchange rate),,,oceania (excl. australia and new zealand) (at market exchange rate)
+237,South America,,,south america
+238,South America (at market exchange rate),,,south america (at market exchange rate)
+239,South-East Asia,,,south-east asia
+240,South-East Asia (at market exchange rate),,,south-east asia (at market exchange rate)
+241,South Africa,,,south africa
+242,South Africa (at market exchange rate),,,south africa (at market exchange rate)
+243,South Asia,,,south asia
+244,South Asia (at market exchange rate),,,south asia (at market exchange rate)
+245,West Africa,,,west africa
+246,West Africa (at market exchange rate),,,west africa (at market exchange rate)
+247,West Asia,,,west asia
+248,West Asia (at market exchange rate),,,west asia (at market exchange rate)
+249,Western Europe,,,western europe
+250,Western Europe (at market exchange rate),,,western europe (at market exchange rate)
+251,European Union,,,european union
+252,European Union (at market exchange rate),,,european union (at market exchange rate)
+253,Romania,Europe,Eastern Europe,romania
+254,Serbia,Europe,Eastern Europe,serbia
+255,Russian Federation,Asia,West Asia,russian federation
+256,Rwanda,Africa,East Africa,rwanda
+257,Saudi Arabia,Asia,West Asia,saudi arabia
+258,Solomon Islands,Oceania,Oceania (excl. Australia and New Zealand),solomon islands
+259,Seychelles,Africa,East Africa,seychelles
+260,Sudan,Africa,North Africa,sudan
+261,Sweden,Europe,Western Europe,sweden
+262,Singapore,Asia,South-East Asia,singapore
+263,Saint Helena,Africa,West Africa,saint helena
+264,Slovenia,Europe,Eastern Europe,slovenia
+265,Slovakia,Europe,Eastern Europe,slovakia
+266,Sierra Leone,Africa,West Africa,sierra leone
+267,San Marino,Europe,Western Europe,san marino
+268,Senegal,Africa,West Africa,senegal
+269,Somalia,Africa,East Africa,somalia
+270,Suriname,Americas,South America,suriname
+271,South Sudan,Africa,North Africa,south sudan
+272,Sao Tome and Principe,Africa,Middle Africa,sao tome and principe
+273,USSR,Asia,West Asia,ussr
+274,El Salvador,Americas,Central America,el salvador
+275,,,,
+276,Sint Maarten (Dutch part),Americas,Caribbean,sint maarten (dutch part)
+277,Syrian Arab Republic,Asia,West Asia,syrian arab republic
+278,Swaziland,Africa,South Africa,swaziland
+279,Turks and Caicos Islands,Americas,Caribbean,turks and caicos islands
+280,Chad,Africa,Middle Africa,chad
+281,Togo,Africa,West Africa,togo
+282,Thailand,Asia,South-East Asia,thailand
+283,Tajikistan,Asia,Central Asia,tajikistan
+284,Tokelau,Oceania,Oceania (excl. Australia and New Zealand),tokelau
+285,Timor-Leste,Asia,South-East Asia,timor-leste
+286,Turkmenistan,Asia,Central Asia,turkmenistan
+287,Tunisia,Africa,North Africa,tunisia
+288,Tonga,Oceania,Oceania (excl. Australia and New Zealand),tonga
+289,Turkey,Asia,West Asia,turkey
+290,Trinidad and Tobago,Americas,Caribbean,trinidad and tobago
+291,Tuvalu,Oceania,Oceania (excl. Australia and New Zealand),tuvalu
+292,Taiwan,Asia,East Asia,taiwan
+293,Tanzania,Africa,East Africa,tanzania
+294,Ukraine,Asia,West Asia,ukraine
+295,Uganda,Africa,East Africa,uganda
+296,USA,Americas,North America,usa
+297,Alaska,,,alaska
+298,Alabama,,,alabama
+299,Arkansas,,,arkansas
+300,Arizona,,,arizona
+301,California,,,california
+302,Colorado,,,colorado
+303,Connecticut,,,connecticut
+304,District of Columbia,,,district of columbia
+305,Delaware,,,delaware
+306,Florida,,,florida
+307,Georgia,,,georgia
+308,Hawaii,,,hawaii
+309,Iowa,,,iowa
+310,Idaho,,,idaho
+311,Illinois,,,illinois
+312,Indiana,,,indiana
+313,Kansas,,,kansas
+314,Kentucky,,,kentucky
+315,Louisiana,,,louisiana
+316,Massachusetts,,,massachusetts
+317,Maryland,,,maryland
+318,Maine,,,maine
+319,Michigan,,,michigan
+320,Minnesota,,,minnesota
+321,Missouri,,,missouri
+322,Mississippi,,,mississippi
+323,Montana,,,montana
+324,North Carolina,,,north carolina
+325,North Dakota,,,north dakota
+326,Nebraska,,,nebraska
+327,New Hampshire,,,new hampshire
+328,New Jersey,,,new jersey
+329,New Mexico,,,new mexico
+330,Nevada,,,nevada
+331,New York,,,new york
+332,Ohio,,,ohio
+333,Oklahoma,,,oklahoma
+334,Oregon,,,oregon
+335,Pennsylvania,,,pennsylvania
+336,Rhode Island,,,rhode island
+337,South Carolina,,,south carolina
+338,South Dakota,,,south dakota
+339,Tennessee,,,tennessee
+340,Texas,,,texas
+341,Utah,,,utah
+342,Virginia,,,virginia
+343,Vermont,,,vermont
+344,Washington,,,washington
+345,Wisconsin,,,wisconsin
+346,West Virginia,,,west virginia
+347,Wyoming,,,wyoming
+348,Uruguay,Americas,South America,uruguay
+349,Uzbekistan,Asia,Central Asia,uzbekistan
+350,Holy See,Europe,Western Europe,holy see
+351,Saint Vincent and the Grenadines,Americas,Caribbean,saint vincent and the grenadines
+352,Venezuela,Americas,South America,venezuela
+353,"Virgin Islands, British",Americas,Caribbean,"virgin islands, british"
+354,"Virgin Islands, US",Americas,Caribbean,"virgin islands, us"
+355,Viet Nam,Asia,South-East Asia,viet nam
+356,Vanuatu,Oceania,Oceania (excl. Australia and New Zealand),vanuatu
+357,Wallis and Futuna,Oceania,Oceania (excl. Australia and New Zealand),wallis and futuna
+358,World,,,world
+359,World (at market exchange rate),,,world (at market exchange rate)
+360,Samoa,Oceania,Oceania (excl. Australia and New Zealand),samoa
+361,Asia (excl. Middle East),,,asia (excl. middle east)
+362,Asia (excl. Middle East) (at market exchange rate),,,asia (excl. middle east) (at market exchange rate)
+363,North America & Oceania,,,north america & oceania
+364,North America & Oceania (at market exchange rate),,,north america & oceania (at market exchange rate)
+365,Former Czechoslovakia,Europe,Eastern_Europe,former czechoslovakia
+366,Former Ethiopia,Africa,Eastern_Africa,former ethiopia
+367,Sub-Saharan Africa,,,sub-saharan africa
+368,Sub-Saharan Africa (at market exchange rate),,,sub-saharan africa (at market exchange rate)
+369,Channel Islands,Europe,Western Europe,channel islands
+370,Kosovo,Europe,Eastern_Europe,kosovo
+371,Latin America,,,latin america
+372,Latin America (at market exchange rate),,,latin america (at market exchange rate)
+373,Middle East,,,middle east
+374,Middle East (at market exchange rate),,,middle east (at market exchange rate)
+375,MENA,,,mena
+376,MENA (at market exchange rate),,,mena (at market exchange rate)
+377,,,,
+378,,,,
+379,Russia & Central Asia,,,russia & central asia
+380,Russia & Central Asia (at market exchange rate),,,russia & central asia (at market exchange rate)
+381,South & South-East Asia,,,south & south-east asia
+382,South & South-East Asia (at market exchange rate),,,south & south-east asia (at market exchange rate)
+383,Yemen,Asia,West Asia,yemen
+384,Yugoslavia,Europe,Eastern Europe,yugoslavia
+385,South Africa,Africa,South Africa,south africa
+386,Zambia,Africa,East Africa,zambia
+387,Zimbabwe,Africa,East Africa,zimbabwe
+388,Zanzibar,Africa,East Africa,zanzibar
